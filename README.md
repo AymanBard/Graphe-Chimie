@@ -3,7 +3,7 @@
 
 ## Execution
 
-Pr executer le programme faudra d'abord installer le package matplotlib avec un package manager qui s'appelle et qui est deja installé avec python
+Pr executer le programme faudra d'abord installer le package matplotlib avec un package manager qui s'appelle pip et qui est deja installé avec python
 
 `
 pip install matplotlib
